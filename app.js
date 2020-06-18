@@ -27,7 +27,7 @@
 //var username;
 
 //q2
-// var fullName = "Zubia Naeem";
+// var fullName = "Midha sohail";
 // var myName = fullName;
 // console.log(myName)
 // document.write(myName)
